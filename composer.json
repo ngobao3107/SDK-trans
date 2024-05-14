@@ -1,0 +1,17 @@
+{
+    "name": "baonn/sdk-trans",
+    "description": "Some description will be useful too!",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sayhello\\": "src/Sayhello"
+        }
+    },
+    "authors": [
+        {
+            "name": "BaoNN"
+        }
+    ],
+    "require": {}
+}
